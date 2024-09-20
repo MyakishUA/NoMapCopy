@@ -1,0 +1,4 @@
+name: NoMapCopy
+main: ua.myakish.NoMapCopy.NoMapCopy
+api-version: 1.21
+version: 1.0-SNAPSHOT
